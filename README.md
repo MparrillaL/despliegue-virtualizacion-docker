@@ -1,7 +1,7 @@
 # Práctica UD01.1: Despliegue de Servidores Web con Docker (Nginx & Apache)
 
 **Módulo:** Despliegue de Aplicaciones Web (DAW)  
-**Alumno:** [Tu Nombre]  
+**Alumno:** Manuel Parrilla 
 **Fecha:** 16/10/2026  
 
 ---
